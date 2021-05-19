@@ -28,5 +28,12 @@ npm start
 
 ### Homework
 
-Using [Agent Chat API](https://developers.livechat.com/docs/messaging/agent-chat-api/#introduction) send a message only to the agent with body:
-`[chat-guard] Chat closed due to incorrect user agent`
+💸 Complete the task, submit a PR, and get $50 added to your Developer Program account. [Developer Terms apply](https://developers.livechat.com/developer-terms).
+
+#### Task description
+
+Using [the Agent Chat API](https://developers.livechat.com/docs/messaging/agent-chat-api/#introduction), send a message visible only to the agent with the following body: `[chat-guard] Chat closed due to incorrect user agent`
+
+Happy coding! 🤓
+
+<div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/cat-computer-gif-5368357">Cat Computer GIF</a> from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
